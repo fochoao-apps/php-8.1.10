@@ -1,0 +1,115 @@
+This snapshot was automatically generated on
+Tue, 27 Sep 2022 07:19:55 +0000
+
+Version: 8.1.10
+Branch: HEAD
+Build: C:\php-sdk-binary-tools\phpmaster\vs16\x64\php-src\x64\Release_TS
+
+Built-in Extensions
+===========================
+Core
+bcmath
+calendar
+ctype
+date
+filter
+hash
+iconv
+json
+SPL
+pcre
+readline
+Reflection
+session
+standard
+mysqlnd
+tokenizer
+zip
+zlib
+libxml
+dom
+PDO
+openssl
+SimpleXML
+xml
+xmlreader
+xmlwriter
+curl
+ftp
+sqlite3
+Phar
+mbstring
+mysqli
+
+
+Dependency information:
+Module: php8ts.dll
+===========================
+	libpq.dll
+
+Module: libpq.dll
+===========================
+	libssl-3-x64.dll
+	libcrypto-3-x64.dll
+
+Module: php_ftp.dll
+===========================
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
+
+Module: libssl-1_1-x64.dll
+===========================
+	libcrypto-1_1-x64.dll
+
+Module: php_intl.dll
+===========================
+	icuuc71.dll
+	icuin71.dll
+	icuio71.dll
+	vcruntime140_1.dll
+
+Module: icuuc71.dll
+===========================
+	icudt71.dll
+	vcruntime140_1.dll
+
+Module: icuin71.dll
+===========================
+	icuuc71.dll
+	vcruntime140_1.dll
+
+Module: icuio71.dll
+===========================
+	icuuc71.dll
+	icuin71.dll
+	vcruntime140_1.dll
+
+Module: php_openssl.dll
+===========================
+	libcrypto-1_1-x64.dll
+	libssl-1_1-x64.dll
+
+Module: php_snmp.dll
+===========================
+	libcrypto-1_1-x64.dll
+
+Module: php_sodium.dll
+===========================
+	libsodium.dll
+
+Module: php_dom.dll
+===========================
+	libxml2.dll
+
+Module: libxml2.dll
+===========================
+	libiconv.dll
+
+Module: php_pdo_pgsql.dll
+===========================
+	libpq.dll
+
+Module: php_simplexml.dll
+===========================
+	libxml2.dll
+
